@@ -10,3 +10,5 @@ Example 1:M relationship
 
 ![image](https://github.com/user-attachments/assets/1a570327-1d49-43b2-ba35-17692deaa44e)
 
+Reflections in .NET are a powerful tool able to collect metadata of objects during runtime. 
+With reflection we can get all properties, methods, constructors of an object, their information, values and attributes. Reflection can also be used to get information about Interfaces, table names, table properties etc. so along with this example reflection can be used to automatically create SQL queries in abstract repositories, create tools or messaging systems between modules (MassTransit for example).
